@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
     <section class="about">
       <h1>O nama</h1>
       <p>
+        a ovo je dodata stvar na test!
         Ovo je jednostavna o-nama stranica. Ovdje možeš pisati bilo kakav
         tekst koji želiš da se prikaže posjetiocima.
       </p>
